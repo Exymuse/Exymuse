@@ -1,10 +1,10 @@
-[![MasterHead](https://tenor.com/view/pixel-city-chill-gif-22227473)](https://rishavchanda.io)
+[![MasterHead](https://img.itch.zone/aW1nLzEzNzczMjU3LmdpZg==/original/W%2Fd8%2BO.gif)](https://rishavchanda.io)
 
 
 <h1 align="center">Hi 👋, I'm Cakra Satriyadana</h1>
 <h3 align="center">👨‍💻 Detail-oriented IT graduate with expertise in web development and data analysis. 🔍 Skilled in Python programming, web app development, data preprocessing, and SQL database management. 📊 Experienced in conducting thorough data analysis to drive informed decision-making. 📸 Adept photographer and videographer, creating compelling visual content. 🚀 Committed to continuous learning and leveraging technology to solve complex problems.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXc0azM1MWF0aDVrM3kyZDBydXI1YmYydmgxMnZxcXBoaTEyenJwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JrXas5ecb4FkwbFpIE/giphy.gif">
+<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXc0azM1MWF0aDVrM3kyZDBydXI1YmYydmgxMnZxcXBoaTEyenJwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JrXas5ecb4FkwbFpIE/giphy.gif">
 
 
 - 🔭 I’m currently working on **Stack Overflow Developer Survey Results Analysis**
