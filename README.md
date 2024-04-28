@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnBhbTdodHQ0NGtlYTc1M3FsejQ1dXB1eWhtY2E4aTRqYTE4cm9pOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif)](https://rishavchanda.io)
+[![MasterHead](https://tenor.com/view/pixel-city-chill-gif-22227473)](https://rishavchanda.io)
 
 
 <h1 align="center">Hi 👋, I'm Cakra Satriyadana</h1>
