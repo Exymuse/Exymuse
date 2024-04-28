@@ -1,10 +1,10 @@
-[![MasterHead](https://dribbble.com/shots/1193016-Mountain-Graph-gif?utm_source=Clipboard_Shot&utm_campaign=seth_eckert&utm_content=Mountain%20Graph%20%7Bgif%7D&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=seth_eckert&utm_content=Mountain%20Graph%20%7Bgif%7D&utm_medium=Social_Share)](https://rishavchanda.io)
+[![MasterHead](https://pixabay.com/videos/dice-science-fiction-futuristic-209468/)](https://rishavchanda.io)
 
 
 <h1 align="center">Hi 👋, I'm Cakra Satriyadana</h1>
 <h3 align="center">👨‍💻 Detail-oriented IT graduate with expertise in web development and data analysis. 🔍 Skilled in Python programming, web app development, data preprocessing, and SQL database management. 📊 Experienced in conducting thorough data analysis to drive informed decision-making. 📸 Adept photographer and videographer, creating compelling visual content. 🚀 Committed to continuous learning and leveraging technology to solve complex problems.</h3>
 
-img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXc0azM1MWF0aDVrM3kyZDBydXI1YmYydmgxMnZxcXBoaTEyenJwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JrXas5ecb4FkwbFpIE/giphy.gif"
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXc0azM1MWF0aDVrM3kyZDBydXI1YmYydmgxMnZxcXBoaTEyenJwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JrXas5ecb4FkwbFpIE/giphy.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=exymuse" alt="exymuse" /></a> </p>
 
